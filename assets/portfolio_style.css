@@ -1,0 +1,4 @@
+.text_centre {text-align:center;
+text-emphasis: underline;}
+
+@media screen and (max-width:500px) {img{ width: 90%;}}
