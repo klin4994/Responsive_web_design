@@ -1,3 +1,7 @@
+* body{
+    background-image: url("./page_background.png");
+    background-size: cover;
+}
 
 .text_centre {text-align:center;
 }
@@ -6,28 +10,21 @@ header {font-weight: bold;
     font-size: 2em;
     border-bottom: 2px solid rgb(221, 221, 221) ;
     color: green;
-    ;}
+}
 
 main {padding:20px;
     border:2px solid rgb(221, 221, 221);
-    margin-top: 2em;}
-img {padding: 1em;}
+    margin-top: 2em;
+    background-color: white;
+}
 
-
-
-
-
-
+img {padding: 1em;
+}
 
 @media screen and (max-width: 700px) {
     article {min-width: 200%;
     }
-
     img {margin: auto;
         min-width: 100%
     };
-
-
-
-
 }
