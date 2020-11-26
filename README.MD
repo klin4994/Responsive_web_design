@@ -15,26 +15,38 @@ Screenshots of the webpages in different screen widths (above and below 700px) a
 
 "Large" for above 700px and "small" for below 700px width.
 
-Index - Large
+<h2>Index - Large</h2>
+<p align="center"> 
 <br>
 <img src="assets\Index_large.png" alt="Index page in large screen">
+</p>
 
-Index - Small
+<h2>Index - Small</h2>
+<p align="center"> 
 <br>
 <img src="assets\Index_small.png" alt="Index page in small screen">
-
-Portfolio - Large
+</p>
+ 
+<h2>Portfolio - Large</h2>
+<p align="center"> 
 <br>
 <img src="assets\Portfolio_large.png" alt="Portfolio page in large screen">
+</p>
 
-Portfolio - Small
+<h2>Portfolio - Small</h2>
+<p align="center"> 
 <br>
 <img src="assets\Portfolio_small.png" alt="Portfolio page in small screen">
+</p>
 
-Contact - Large
+<h2>Contact - Large</h2>
+<p align="center"> 
 <br>
 <img src="assets\Contact_large.png" alt="Contact page in large screen">
+</p>
 
-Contact- Small
+<h2>Contact- Small</h2>
+<p align="center"> 
 <br>
 <img src="assets\Contact_small.png" alt="Contact page in small screen">
+</p>
