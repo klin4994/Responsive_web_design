@@ -17,24 +17,36 @@ Screenshots of the webpages in different screen widths (above and below 700px) a
 
 Index - Large
 <br>
-<img src="assets\Index_large.png" alt="Index page in large screen" align="center">
+<p align="center"> 
+<img src="assets\Index_large.png" alt="Index page in large screen">
+</p>
 
+<p align="center"> 
 Index - Small
 <br>
-<img src="assets\Index_small.png" alt="Index page in small screen" align="center">
+<img src="assets\Index_small.png" alt="Index page in small screen">
+</p>
 
+<p align="center"> 
 Portfolio - Large
 <br>
-<img src="assets\Portfolio_large.png" alt="Portfolio page in large screen" align="center">
+<img src="assets\Portfolio_large.png" alt="Portfolio page in large screen">
+</p>
 
+<p align="center"> 
 Portfolio - Small
 <br>
-<img src="assets\Portfolio_small.png" alt="Portfolio page in small screen" align="center">
+<img src="assets\Portfolio_small.png" alt="Portfolio page in small screen">
+</p>
 
+<p align="center"> 
 Contact - Large
 <br>
-<img src="assets\Contact_large.png" alt="Contact page in large screen" align="center">
+<img src="assets\Contact_large.png" alt="Contact page in large screen">
+</p>
 
+<p align="center"> 
 Contact- Small
 <br>
-<img src="assets\Contact_small.png" alt="Contact page in small screen" align="center">
+<img src="assets\Contact_small.png" alt="Contact page in small screen">
+</p>
