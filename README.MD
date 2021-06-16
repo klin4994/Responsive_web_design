@@ -17,7 +17,6 @@ Screenshots of the webpages in different screen widths (above and below 700px) a
 
 <h2>Index - Large</h2>
 <p align="center"> 
-<p>test</p>
 <br>
 <img src="assets\Index_large.png" alt="Index page in large screen">
 </p>
