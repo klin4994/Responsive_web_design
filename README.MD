@@ -3,12 +3,10 @@ My first portfolio pages design. Built with Bootstrap, and media query to design
 
 <h1>Links</h1>
 The following HTML pages were created:
-
-index.html: https://kvlin.github.io/Responsive_web_design/index.html
-<br>
-portfolio.html: https://kvlin.github.io/Responsive_web_design/portfolio.html
-<br>
-contact.html: https://kvlin.github.io/Responsive_web_design/contact.html
+<br/>
+Index.html: https://kvlin.github.io/Responsive_web_design/index.html
+Portfolio.html: https://kvlin.github.io/Responsive_web_design/portfolio.html
+Contact.html: https://kvlin.github.io/Responsive_web_design/contact.html
 
 <h1>Screenshots</h1>
 Screenshots of the webpages in different screen widths (above and below 700px) are shown below.
