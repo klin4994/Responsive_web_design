@@ -5,7 +5,9 @@ My first portfolio pages design. Built with Bootstrap, and media query to design
 The following HTML pages were created:
 <br/>
 Index.html: https://kvlin.github.io/Responsive_web_design/index.html
+<br/>
 Portfolio.html: https://kvlin.github.io/Responsive_web_design/portfolio.html
+<br/>
 Contact.html: https://kvlin.github.io/Responsive_web_design/contact.html
 
 <h1>Screenshots</h1>
