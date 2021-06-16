@@ -1,5 +1,5 @@
 <h1>Description</h1>
-This project involves the use of gid layouts from Bootstrap, and media query to design responsive webpages that are able to render appropriately in different display sizes. In addition, other Bootstrap interface componenets such as navigation bar and forms, are incorporated too.
+My first portfolio pages design. Built with Bootstrap, and media query to design responsive webpages that are able to render appropriately in different display sizes. In addition, other Bootstrap interface componenets such as navigation bar and forms, are incorporated too.
 
 <h1>Links</h1>
 The following HTML pages were created:
