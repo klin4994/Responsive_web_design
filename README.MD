@@ -4,11 +4,11 @@ This project involves the use of gid layouts from Bootstrap, and media query to 
 <h1>Links</h1>
 The following HTML pages were created:
 
-index.html: https://klin4994.github.io/Responsive_web_design/index.html
+index.html: https://kvlin.github.io/Responsive_web_design/index.html
 <br>
-portfolio.html:https://klin4994.github.io/Responsive_web_design/portfolio.html
+portfolio.html:https://kvlin.github.io/Responsive_web_design/portfolio.html
 <br>
-contact.html:https://klin4994.github.io/Responsive_web_design/contact.html
+contact.html:https://kvlin.github.io/Responsive_web_design/contact.html
 
 <h1>Screenshots</h1>
 Screenshots of the webpages in different screen widths (above and below 700px) are shown below.
